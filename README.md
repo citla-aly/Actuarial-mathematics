@@ -1,1 +1,3 @@
 # Actuarial-mathematics
+
+Frequency modeling
